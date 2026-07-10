@@ -10,7 +10,7 @@ redirect_from:
 
 Latest News
 ------
-I'm glad to share that I'll be joining J.P. Morgan's Machine Learning Center of Excellence (MLCOE) in London this September for an internship!
+I'm glad to share that I'll be joining [**J.P. Morgan's Machine Learning Center of Excellence (MLCOE)**](https://www.jpmorganchase.com/about/technology/research/machine-learning) in London this September for an internship!
 If you're around London, feel free to reach out for a coffee chat.
 
 About Me
