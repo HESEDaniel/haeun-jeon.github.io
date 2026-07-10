@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+Latest News
+------
+I'm glad to share that I'll be joining J.P. Morgan's Machine Learning Center of Excellence (MLCOE) in London this September for an internship!
+If you're around London, feel free to reach out for a coffee chat.
+
+About Me
+------
 I am a Ph.D. student in Industrial and Systems Engineering at Korea Advanced Institute of Science and Technology (KAIST). I received my M.S. from KAIST, advised by Prof. Woo Chang Kim, and have continued my research in the Financial Engineering Lab. My research interests center on *Financial Engineering*, *Stochastic Optimization*, and *Decision-making under Uncertainty*.
 
 
@@ -28,6 +35,10 @@ Early Graduation, 2013.03 - 2015.02
 
 Publications
 -----
+- [**Decision-focused Sparse Tangent Portfolio Optimization**](https://arxiv.org/abs/2607.00581)\\
+<u>Haeun Jeon</u>\*, Seunghoon Choi\*, Hyunglip Bae, Yongjae Lee\+, Woo Chang Kim\+\\
+ICML 2026
+
 - [**A Decision-focused Learning Framework for Goal-based Investing**](https://www.tandfonline.com/doi/full/10.1080/14697688.2025.2596917)\\
 Hyunglip Bae\*, Minsu Park\*, <u>Haeun Jeon</u>, Woo Chang Kim\\
 Quantitative Finance, *Featured Article*
@@ -49,15 +60,15 @@ INFORMS Journal on Computing, *Major Revision*
 
 - **Prediction Loss Guided Decision-Focused Learning**\\
 <u>Haeun Jeon</u>, Hyunglip Bae, Chanyeong Kim, Yongjae Lee, Woo Chang Kim\\
-AAAI 2026, *Under Review*
+NeurIPS 2026, *Under Review*
 
 - **Probabilistic Value Function for Large-scale Multistage Stochastic Programs**\\
 Chanyeong Kim, Joohwan Ko, Hyunglip Bae, <u>Haeun Jeon</u>, Woo Chang Kim\\
-AAAI 2026, *Under Review*
+NeurIPS 2026, *Under Review*
 
 - [**A Cholesky Decomposition-based Asset Selection Heuristic for Sparse Tangent Portfolio Optimization**](https://arxiv.org/abs/2502.11701)\\
 Hyunglip Bae\*, <u>Haeun Jeon</u>\*, Minsu Park, Yongjae Lee, Woo Chang Kim\\
-Finance Research Letters, *Under Review*
+INFORMS Journal on Computing, *Under Review*
 
 
 Projects
